@@ -1,0 +1,6 @@
+../Core/WiFi/WiFi_HTTP_Server/Src/main.c:87:12:wifi_start	40	static
+../Core/WiFi/WiFi_HTTP_Server/Src/main.c:120:5:wifi_connect	16	static
+../Core/WiFi/WiFi_HTTP_Server/Src/main.c:150:5:wifi_server	40	static
+../Core/WiFi/WiFi_HTTP_Server/Src/main.c:199:13:WebServerProcess	32	static
+../Core/WiFi/WiFi_HTTP_Server/Src/main.c:278:22:SendWebPage	96	static
+../Core/WiFi/WiFi_HTTP_Server/Src/main.c:338:13:SystemClock_Config	96	static

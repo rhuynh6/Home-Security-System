@@ -1,0 +1,2 @@
+../Core/WiFi/WiFi_HTTP_Server/STM32CubeIDE/Application/User/syscalls.c:43:27:_read	32	static
+../Core/WiFi/WiFi_HTTP_Server/STM32CubeIDE/Application/User/syscalls.c:56:27:_write	32	static
