@@ -20,8 +20,8 @@
 
 /* Private defines -----------------------------------------------------------*/
 /* Update SSID and PASSWORD with own Access point settings */
-#define SSID     "TP-Link_64FA"
-#define PASSWORD "92195592"
+#define SSID     "********"
+#define PASSWORD "******"
 #define PORT           80
 
 #define TERMINAL_USE
