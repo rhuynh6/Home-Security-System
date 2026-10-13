@@ -129,8 +129,8 @@ void StartTask04(void *argument);
 /* USER CODE BEGIN 0 */
 /* Update SSID and PASSWORD with own Access point settings */
 
-#define SSID     "TotoTheDog"
-#define PASSWORD "0c6apenthsaigon"
+#define SSID     "****"
+#define PASSWORD "*****"
 
 //#define SSID     "thotdog"
 //#define PASSWORD "Water101"
